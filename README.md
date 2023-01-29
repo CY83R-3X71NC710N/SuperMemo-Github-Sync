@@ -14,4 +14,5 @@ Dropbox or Google Drive may seem like a convenient option for backups, but they 
 Used websites:
 ```
 https://gitforwindows.org/
+https://github.com/supermemo/SuperMemoScripts/tree/master/SuperMemo-Git-sync
 ```
